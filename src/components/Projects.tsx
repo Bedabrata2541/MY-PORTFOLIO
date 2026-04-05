@@ -175,7 +175,7 @@ export function Projects() {
         >
           {/* Instagram */}
           <a
-            href="https://www.instagram.com/bedabrata.paul/"  // ← replace with your Instagram URL
+            href="https://instagram.com/onemore_problem"  // ← replace with your Instagram URL
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
@@ -189,7 +189,7 @@ export function Projects() {
 
           {/* LinkedIn */}
           <a
-            href="https://www.linkedin.com/in/bedabrata-paul/"  // ← replace with your LinkedIn URL
+            href="https://www.linkedin.com/in/bedabrata-paul-8a76b2325"  // ← replace with your LinkedIn URL
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
