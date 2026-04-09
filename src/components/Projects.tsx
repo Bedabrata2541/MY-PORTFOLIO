@@ -47,6 +47,7 @@ const projects: Project[] = [
     image: trinetraImage,
     tools: ['Computer Vision', 'AI/ML', 'Voice API'],
     role: 'AI Development · Product Design',
+    link: 'https://trinetra-ai-powered-assistant-for-v.vercel.app/',
   },
 ];
 
